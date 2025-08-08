@@ -1,3 +1,5 @@
 spacy
 spacytextblob
 matplotlib
+requests
+beautifulsoup4
